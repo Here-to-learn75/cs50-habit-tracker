@@ -1,42 +1,37 @@
-# Habit Tracker - CS50P Final Project
+# Habit Tracker – CS50P Final Project
 
 ## Project Information
-
 **Project Title:** CS50P Final Project  
 **Name:** Sagar Nayak  
-**GitHub Username:** *Here-to-learn75*  
-**edX Username:** *Here-to-learn75*  
-**edX Account no.:** *SM_2410_CQP5*  
+**GitHub Username:** Here-to-learn75  
+**edX Username:** Here-to-learn75  
+**edX Account Number:** SM_2410_CQP5  
 **City & Country:** Bangalore, India  
-**Recording Date:** 3-12-25
- #### Video Demo:  <https://youtu.be/F-4cbJAqDI8>
+**Recording Date:** 03-12-2025  
+
+**Video Demo:** https://youtu.be/F-4cbJAqDI8
+
+---
 
 ## Overview
-This is a command-line Habit Tracker built using Python.  
-It helps users track daily habits, maintain streaks, and build discipline.
+Habit Tracker is a command-line application built in Python to help users build consistency and discipline in their daily routines. The program allows users to create habits, mark their completion, and automatically track streaks over time. All data is stored safely in a JSON file so users can resume progress anytime. The app is designed to be simple, fast, and reliable for everyday use.
+
+---
 
 ## Features
-- Add new habits
-- Mark habits as completed
-- Automatic streak tracking
-- Remove habits
-- Data saved in JSON format
-- Clean CLI interface with colors
+• Add new habits  
+• Mark habits as complete  
+• Automatic streak calculation  
+• Remove unwanted habits  
+• JSON-based data storage  
+• Clean and colorful CLI interface  
+
+---
 
 ## File Structure
-main.py — Program entry point  
-habit.py — Core habit logic  
-storage.py — JSON load/save  
-utils.py — Helper functions  
-habit_data.json — Data storage  
-
-## How to Run
-pip install -r requirements.txt  
-python main.py  
-
-## Future Improvements
-- Weekly reports  
-- Habit categories  
-- Progress visualization  
-
+- **main.py** – Entry point of the program  
+- **habit.py** – Core habit logic and streak management  
+- **storage.py** – Load and save operations for JSON data  
+- **utils.py** – Helper functions, including colored terminal output  
+- **habit_data.json** – User habit history and streak data  
 
