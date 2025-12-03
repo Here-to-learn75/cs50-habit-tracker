@@ -9,6 +9,7 @@
 **edX Account no.:** *SM_2410_CQP5*  
 **City & Country:** Bangalore, India  
 **Recording Date:** 3-12-25
+ #### Video Demo:  <https://youtu.be/F-4cbJAqDI8>
 
 ## Overview
 This is a command-line Habit Tracker built using Python.  
@@ -37,4 +38,5 @@ python main.py
 - Weekly reports  
 - Habit categories  
 - Progress visualization  
+
 
