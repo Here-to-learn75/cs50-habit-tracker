@@ -1,5 +1,15 @@
 # Habit Tracker - CS50P Final Project
 
+## Project Information
+
+**Project Title:** CS50P Final Project  
+**Name:** Sagar Nayak  
+**GitHub Username:** *Here-to-learn75*  
+**edX Username:** *Here-to-learn75*  
+**edX Account no.:** *SM_2410_CQP5*  
+**City & Country:** Bangalore, India  
+**Recording Date:** 3-12-25
+
 ## Overview
 This is a command-line Habit Tracker built using Python.  
 It helps users track daily habits, maintain streaks, and build discipline.
